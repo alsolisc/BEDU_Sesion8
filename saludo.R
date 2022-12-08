@@ -1,0 +1,2 @@
+x <- "Hola mundo"
+x
